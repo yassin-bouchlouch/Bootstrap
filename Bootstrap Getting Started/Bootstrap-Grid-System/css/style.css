@@ -1,16 +1,30 @@
 .div1{
   background-color: blueviolet;
   height: 4rem;
+  font-size: 2rem;
 }
 .div2{
   background-color: chocolate;
   height: 4rem;
+  font-size: 2rem;
 }
 .div3{
   background-color: cornflowerblue;
   height: 4rem;
+  font-size: 2rem;
 }
 .div4{
   background-color: crimson;
   height: 4rem;
+  font-size: 2rem;
+}
+.div5{
+  background-color:violet;
+  height: 4rem;
+  font-size: 2rem;
+}
+.div6{
+  background-color:brown;
+  height: 4rem;
+  font-size: 2rem;
 }
